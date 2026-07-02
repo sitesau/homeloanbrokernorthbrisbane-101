@@ -1,0 +1,16 @@
+{
+  "wheel_id": 8,
+  "slug": "homeloanbrokernorthbrisbane-101",
+  "project": "mortgage-broker-north-brisbane-w8",
+  "parent_t1_ref": "homeloanbrokernorthbrisbane-001",
+  "money_target": "homeloanbrokernorthbrisbane.com.au",
+  "primary_kw": "mortgage broker north brisbane",
+  "intended_url": "https://mortgage-broker-north-brisbane-w8.netlify.app/",
+  "links": [
+    {
+      "target_url": "https://home-loan-broker-north-brisbane-guide.vercel.app",
+      "anchor": "home loan broker north brisbane",
+      "rel": "follow"
+    }
+  ]
+}
